@@ -2,6 +2,8 @@
 
 IS 4487 Business Analytics team project. Can we predict which tracks ranked 51–200 on Spotify’s Global Weekly chart will reach the Top 50 in the next four weeks? A weekly shortlist could help music editors decide which tracks to review for broader playlist placement.
 
+Group Members: Flynn Mcconneloug, Jake Haskins, Victor Vazquez, Yewon Jeon
+
 ## Data
 
 Start with one row per track per chart week. Keep the week ending date, track ID, title, artist, rank, chart streams and weeks on chart. Remove duplicates by track ID and week. Use earlier charts to calculate rank and stream changes. Use the following four charts to label whether each track reached the Top 50.
